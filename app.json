@@ -89,11 +89,12 @@
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
     }, {
       "url": "heroku/python"
-    }],
+    ]}],
     "formation": {
     "worker": {
       "quantity": 1,
       "size": "free"
     }
-  }
-}
+  }"buildpacks": [{
+        https://dl.yarnpkg.com/debian stable InRelease versi 4.3.1
+}}}
