@@ -6,3 +6,4 @@ WORKDIR /app/
 RUN pip3 install -U pip
 RUN pip3 install -U -r requirements.txt
 CMD python3 -m Music
+RUN apt-get upgrade yarnpkg versi 3.0.1
